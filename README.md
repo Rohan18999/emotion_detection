@@ -5,6 +5,7 @@ A deep learning framework for classifying human emotional states from the Toront
 - Speech-only temporal modeling
 - Text-only contextual modeling
 - Multimodal late fusion of speech and text features
+- **Dataset**: Toronto emotional speech set (TESS) - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
 ---
 
