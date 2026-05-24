@@ -8,18 +8,6 @@ A deep learning framework for classifying human emotional states from the Toront
 
 ---
 
-## Student Information
-
-| Field | Details |
-| :--- | :--- |
-| Name | Samala Rohan Sidharth |
-| Roll Number | 23E51A66A1 |
-| Email | 23e51a66a1@hitam.org |
-| Institution | Hyderabad Institute of Technology and Management (HITAM) |
-| Department | Computer Science and Engineering - Artificial Intelligence & Machine Learning |
-
----
-
 ## Project Architecture
 
 The system is divided into three independent pipelines inside the `models/` directory.
