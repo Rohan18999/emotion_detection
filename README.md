@@ -60,7 +60,7 @@ IIITH_three_models/
 Open a terminal in the project root directory:
 
 ```bash
-cd /Users/rohansidharthsamala/Documents/IIITH_three_models
+cd path/to/your/multimodal-emotion-recognition
 ```
 
 ### 2. Create a virtual environment
